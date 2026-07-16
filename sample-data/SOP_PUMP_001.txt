@@ -1,0 +1,69 @@
+STANDARD OPERATING PROCEDURE
+Document No: SOP-PUMP-001
+Revision: 3
+Date: January 2024
+Title: Centrifugal Pump Startup and Shutdown Procedure
+
+1. SCOPE
+This SOP applies to all centrifugal pumps in Unit 3 process area.
+
+2. SAFETY PRECAUTIONS
+- Wear PPE: Safety glasses, gloves, safety shoes, hard hat
+- Ensure area is clear of personnel before startup
+- Check for any ongoing maintenance work (PTW system)
+- Never bypass safety interlocks
+
+3. PRE-START CHECKLIST
+□ All maintenance work completed and PTW closed
+□ Isolation valves in correct position (suction open, discharge closed)
+□ Mechanical seal flush flowing (check sight glass)
+□ Lube oil level adequate (between min/max marks)
+□ Coupling guard in place and secured
+□ Instrumentation functional (pressure gauges, flow meter)
+□ Motor rotation direction verified (bump test)
+
+4. STARTUP PROCEDURE
+Step 1: Open suction valve fully
+Step 2: Crack open recirculation valve (if applicable)
+Step 3: Start motor using local/remote start button
+Step 4: Verify motor starts and reaches full speed (< 10 seconds)
+Step 5: Slowly open discharge valve over 30 seconds
+Step 6: Close recirculation valve once flow established
+Step 7: Verify operating parameters:
+  - Flow rate: Design ± 10%
+  - Discharge pressure: Design ± 5%
+  - Vibration: < 4.5 mm/s
+  - Bearing temperature: < 80°C
+  - No visible leaks
+
+5. NORMAL SHUTDOWN
+Step 1: Slowly close discharge valve
+Step 2: Stop motor
+Step 3: Close suction valve (if required)
+Step 4: Log shutdown in DCS/logbook
+
+6. EMERGENCY SHUTDOWN
+Press red ESD button at local panel OR
+Activate from DCS emergency shutdown screen
+Notify control room immediately
+
+7. TROUBLESHOOTING
+Problem: Pump not starting
+- Check motor protection relay
+- Check power supply
+- Check for mechanical seizure
+
+Problem: Low flow/pressure
+- Check suction valve position
+- Check for cavitation (noise)
+- Check impeller condition
+
+Problem: High vibration
+- Stop pump immediately
+- Check alignment
+- Check bearing condition
+- Contact maintenance
+
+8. RECORDS
+Log all startups and shutdowns in the pump logbook.
+Report any abnormalities to shift supervisor.

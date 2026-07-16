@@ -1,0 +1,36 @@
+# Node
+frontend/node_modules/
+frontend/build/
+
+# Python
+ai-service/__pycache__/
+ai-service/services/__pycache__/
+ai-service/routers/__pycache__/
+ai-service/models/__pycache__/
+ai-service/utils/__pycache__/
+ai-service/uploads/
+ai-service/vector_store/
+ai-service/*.pyc
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Java / Maven
+backend/target/
+backend/.mvn/
+*.class
+*.jar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+ai_service.log

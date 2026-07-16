@@ -1,0 +1,47 @@
+MAINTENANCE REPORT
+Report No: MR-2024-089
+Date: March 10, 2024
+Asset: Pump P-201
+Location: Unit 3, Process Area
+Engineer: S. Patel
+Supervisor: R. Kumar
+
+FAILURE DESCRIPTION:
+Pump P-201 tripped on high vibration alarm at 06:45 hrs.
+Vibration reading: 6.8 mm/s (Alarm: 4.5 mm/s, Trip: 7.0 mm/s)
+Bearing temperature: 92°C (Limit: 80°C)
+
+ROOT CAUSE ANALYSIS:
+Primary Cause: Bearing failure (Drive End)
+Contributing Factors:
+1. Lubrication interval overdue by 120 hours
+2. Previous seal failure (Jan 2024) may have contaminated bearing grease
+3. Slight misalignment detected (0.08mm - above tolerance of 0.05mm)
+
+WORK PERFORMED:
+1. Isolated pump and followed LOTO procedure
+2. Removed bearing housing
+3. Replaced Drive End bearing (SKF-6205-2RS)
+4. Cleaned and repacked with fresh grease (Shell Gadus S2 V220)
+5. Realigned pump to motor (final reading: 0.03mm)
+6. Replaced mechanical seal as precaution
+7. Recommissioned and monitored for 2 hours
+
+POST-MAINTENANCE READINGS:
+Vibration: 2.1 mm/s (Normal)
+Bearing Temperature: 58°C (Normal)
+Flow: 248 m3/hr (Design: 250 m3/hr)
+
+RECOMMENDATIONS:
+1. Reduce lubrication interval to 400 hours
+2. Install continuous vibration monitoring
+3. Schedule alignment check every 6 months
+4. Review seal flush system design
+
+PARTS USED:
+- SKF-6205-2RS Bearing x1
+- JohnCrane-1 Mechanical Seal x1
+- Shell Gadus S2 V220 Grease 500g
+
+DOWNTIME: 8 hours
+MAINTENANCE COST: ₹45,000

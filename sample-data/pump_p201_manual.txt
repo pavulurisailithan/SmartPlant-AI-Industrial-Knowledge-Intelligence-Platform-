@@ -1,0 +1,47 @@
+PUMP P-201 OEM MAINTENANCE MANUAL
+Section 4.3 - Bearing Maintenance
+
+1. INTRODUCTION
+Pump P-201 is a centrifugal pump designed for continuous operation in process service.
+Model: API 610 BB2, Flow: 250 m3/hr, Head: 85m, Speed: 1450 RPM
+
+2. BEARING SPECIFICATIONS
+- Drive End Bearing: SKF-6205-2RS (Deep Groove Ball Bearing)
+- Non-Drive End Bearing: SKF-6204-2RS
+- Bearing Temperature Limit: 80°C maximum
+- Vibration Limit: 4.5 mm/s RMS
+
+3. MAINTENANCE INTERVALS
+- Lubrication: Every 500 operating hours or 3 months (whichever is earlier)
+- Bearing Inspection: Every 2000 hours
+- Bearing Replacement: Every 8000 hours or on condition
+
+4. FAILURE MODES
+Common failure modes for this pump:
+a) Bearing failure - caused by inadequate lubrication, misalignment, or overloading
+b) Mechanical seal failure - caused by dry running, excessive vibration, or contamination
+c) Impeller wear - caused by abrasive particles or cavitation
+
+5. TROUBLESHOOTING
+High Vibration (>4.5 mm/s):
+- Check shaft alignment (tolerance: ±0.05mm)
+- Check bearing condition
+- Check for cavitation (NPSH available vs required)
+- Check for recirculation
+
+High Temperature (>80°C):
+- Check lubrication level and quality
+- Check cooling water flow
+- Check bearing clearances
+
+6. SPARE PARTS LIST
+Part No: SKF-6205-2RS - Drive End Bearing
+Part No: SKF-6204-2RS - Non-Drive End Bearing
+Part No: JohnCrane-1 - Mechanical Seal
+Part No: SS316-IMP-250 - Impeller
+
+7. SAFETY PRECAUTIONS
+- Always isolate and depressurize before maintenance
+- Follow LOTO procedure (SOP-SAFE-001)
+- Wear appropriate PPE
+- Never run pump dry
