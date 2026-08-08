@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SmartPlant-AI-Industrial-Knowledge-Intelligence-Platform-/static/css/main.7e862136.css",
+    "main.js": "/SmartPlant-AI-Industrial-Knowledge-Intelligence-Platform-/static/js/main.0293237d.js",
+    "index.html": "/SmartPlant-AI-Industrial-Knowledge-Intelligence-Platform-/index.html",
+    "main.7e862136.css.map": "/SmartPlant-AI-Industrial-Knowledge-Intelligence-Platform-/static/css/main.7e862136.css.map",
+    "main.0293237d.js.map": "/SmartPlant-AI-Industrial-Knowledge-Intelligence-Platform-/static/js/main.0293237d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e862136.css",
+    "static/js/main.0293237d.js"
+  ]
+}
