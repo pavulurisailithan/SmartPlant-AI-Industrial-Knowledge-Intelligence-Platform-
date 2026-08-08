@@ -172,6 +172,7 @@ Body: { "query": "...", "language": "en" }
 GET  http://localhost:8000/maintenance/predict/P-201
 GET  http://localhost:8000/compliance/check/oisd
 GET  http://localhost:8000/graph/data
+live link: https://pavulurisailithan.github.io/SmartPlant-AI-Industrial-Knowledge-Intelligence-Platform-/#/compliance
 ```
 
 ## 🌐 Multi-language Support
