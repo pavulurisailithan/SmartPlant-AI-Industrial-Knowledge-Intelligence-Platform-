@@ -26,6 +26,7 @@ docker-compose up --build
 # Backend:   http://localhost:8080
 # AI Service: http://localhost:8000
 # Neo4j:     http://localhost:7474
+# # Live Link : https://pavulurisailithan.github.io/SmartPlant-AI-Industrial-Knowledge-Intelligence-Platform-/
 ```
 
 ### Demo Credentials
