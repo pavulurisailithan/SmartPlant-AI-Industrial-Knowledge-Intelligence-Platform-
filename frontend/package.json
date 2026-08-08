@@ -2,6 +2,7 @@
   "name": "smartplant-ai",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://pavulurisailithan.github.io/SmartPlant-AI-Industrial-Knowledge-Intelligence-Platform-",
   "dependencies": {
     "@headlessui/react": "^1.7.17",
     "ajv": "^8.20.0",

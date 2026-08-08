@@ -81,10 +81,10 @@ export default function Login() {
         </div>
 
         <div className="mt-4 card text-xs text-gray-400 space-y-1">
-          <p className="text-green-400 font-medium">✅ Services Running:</p>
-          <p>• AI Service: <span className="text-white">http://127.0.0.1:8000</span></p>
-          <p>• Frontend: <span className="text-white">http://localhost:3000</span></p>
-          <p>• API Docs: <span className="text-white">http://127.0.0.1:8000/docs</span></p>
+          <p className="text-green-400 font-medium">✅ Demo Mode Active</p>
+          <p>• All features work with mock data</p>
+          <p>• AI chat uses built-in demo responses</p>
+          <p>• No backend required</p>
         </div>
       </div>
     </div>
